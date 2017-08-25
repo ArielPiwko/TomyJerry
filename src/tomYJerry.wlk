@@ -1,3 +1,5 @@
+/* comentario inutil */
+
 object tom {
 	var energia = 0
 
